@@ -1,14 +1,16 @@
 CACHE MANIFEST
 # Version 0.6799999
 
-index.html
-css/base.css
-js/base.js
-js/webapp.js
-js/offline.js
+/8ball/index.html
+/8ball/css/base.css
+/8ball/css/headers.css
+/8ball/js/base.js
+/8ball/js/webapp.js
+/8ball/js/offline.js
+/8ball/images/Magic_eight_ball.png
 
 NETWORK:
 *
 
 FALLBACK:
-/ fallback.html
+/ /8ball/fallback.html
