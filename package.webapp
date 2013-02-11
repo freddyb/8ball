@@ -1,0 +1,9 @@
+{
+    "name": "8ball",
+    "package_path" : "http://localhost/Firefox-OS-Boilerplate-App/Firefox-OS-Boilerplate-App.zip",
+    "version": "0.9",
+    "developer": {
+        "name": "Frederik B",
+        "url": "http://example.com"
+    }
+}
