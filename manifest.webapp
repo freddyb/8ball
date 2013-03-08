@@ -3,6 +3,7 @@
     "name": "8ball",
     "launch_path": "/8ball/index.html",
     "description": "Magic Eightball",
+    "orientation": "portrait-primary",
     "icons": {
         "16": "images/logo16.png",
         "30": "images/logo30.png",
