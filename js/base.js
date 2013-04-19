@@ -37,6 +37,7 @@ else {
 if ("lockOrientation" in window.screen) {
 	window.screen.lockOrientation("portrait"); // would be cooler if we could adapt though...
 }
+
 // Reload content
 var reload = document.querySelector("#reload");
 if (reload) {
@@ -46,11 +47,13 @@ if (reload) {
 }
 
 ///////////////////////////////////////////////////////////////////////
+
 function choice(arr) {
 	r = Math.random();
 	return arr[Math.floor(r * arr.length)];
 }
 function getOutcome() {
+<<<<<<< HEAD
 	outcome = ["It is certain","It is decidedly so","Without a doubt","Yes - definitely","You may rely on it","As I see it, yes","Most likely","Outlook good","Yes","Signs point to yes","Reply hazy, try again","Ask again later","Better not tell you now","Cannot predict now","Concentrate and ask again","Don't count on it","My reply is no","My sources say no","Outlook not so good","Very doubtful"];
 	return choice(outcome);
 }
