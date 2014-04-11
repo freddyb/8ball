@@ -1,5 +1,5 @@
 {
-    "version": "0.9",
+    "version": "0.10",
     "name": "8ball",
     "launch_path": "/8ball/index.html",
     "description": "Magic Eightball",
