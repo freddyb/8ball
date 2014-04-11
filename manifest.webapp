@@ -17,7 +17,7 @@
     },
     "developer": {
         "name": "Frederik B",
-        "url": "http://example.com"
+        "url": "https://github.com/freddyb"
     },
     "installs_allowed_from": ["*"],
     "default_locale": "en",
