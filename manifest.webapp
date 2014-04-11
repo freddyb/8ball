@@ -5,11 +5,14 @@
     "description": "Magic Eightball",
     "orientation": "portrait-primary",
     "icons": {
-        "16": "images/logo16.png",
-        "30": "images/logo30.png",
+        "16": "/8ball/images/logo16.png",
+        "30": "/8ball/images/logo30.png",
         "32": "images/logo32.png",
         "48": "images/logo48.png",
+        "60": "/8ball/images/logo60.png",
         "64": "images/logo64.png",
+        "90": "/8ball/images/logo90.png",
+        "120": "/8ball/images/logo120.png",
         "128": "images/logo128.png"
     },
     "developer": {
